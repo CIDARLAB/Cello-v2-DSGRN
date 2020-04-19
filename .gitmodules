@@ -1,0 +1,3 @@
+[submodule "cello/cello-dsgrn/src/test/resources/lib"]
+	path = cello/cello-dsgrn/src/test/resources/lib
+	url = https://github.com/CIDARLAB/Cello-UCF.git

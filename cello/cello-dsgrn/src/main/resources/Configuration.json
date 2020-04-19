@@ -1,0 +1,17 @@
+{
+    "stages": [
+        {
+            "algorithm_name": "SimulatedAnnealing",
+            "name": "technologyMapping"
+        },
+        {
+            "algorithm_name": "Eugene",
+            "name": "placing"
+        },
+        {
+            "name": "export",
+            "algorithm_name": "SBOL"
+        }
+    ],
+    "name": "DSGRN"
+}

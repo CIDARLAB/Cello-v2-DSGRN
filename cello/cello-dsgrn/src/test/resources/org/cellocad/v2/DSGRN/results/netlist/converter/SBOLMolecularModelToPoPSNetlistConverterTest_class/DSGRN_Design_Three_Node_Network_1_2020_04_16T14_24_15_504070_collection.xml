@@ -1,0 +1,431 @@
+<?xml version="1.0" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sbh="http://wiki.synbiohub.org/wiki/Terms/synbiohub#" xmlns:sbol="http://sbols.org/v2#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ns0="http://dsgrn_design.org#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:om="http://www.ontology-of-units-of-measure.org/resource/om-2/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sbol:Collection rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070_collection/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070_collection"/>
+    <sbol:displayId>DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070_collection</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>DSGRN_Design_Three_Node_Network_1</dcterms:title>
+    <dcterms:description>DSGRN_Design_Three_Node_Network_1</dcterms:description>
+    <dc:creator>SD2 Program Account</dc:creator>
+    <dcterms:created>2020-04-16T20:24:18.283Z</dcterms:created>
+    <dcterms:created>2020-04-16T20:24:30.538Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070_collection/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/C/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_configuration_2020_04_16T14_24_15_504070/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/inducer/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/Z/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_feacd0f47d894184be78b8b6e47d5665/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/A/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_1fa3f951c684457ba3068b68b11fa77c/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/reporter/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+    <sbol:member rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/B/1"/>
+  </sbol:Collection>
+  <sbol:ModuleDefinition rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070"/>
+    <sbol:displayId>dsgrn_design_2020_04_16T14_24_15_504070</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070/1"/>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+    <sbol:attachment rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_feacd0f47d894184be78b8b6e47d5665/1"/>
+    <sbol:attachment rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_1fa3f951c684457ba3068b68b11fa77c/1"/>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_inducer/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_inducer"/>
+        <sbol:displayId>fc_inducer</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>inducer</dcterms:title>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:definition rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/inducer/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#none"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_reporter/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_reporter"/>
+        <sbol:displayId>fc_reporter</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>reporter</dcterms:title>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:definition rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/reporter/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#none"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_C/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_C"/>
+        <sbol:displayId>fc_C</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>C</dcterms:title>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:definition rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/C/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#none"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_Z/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_Z"/>
+        <sbol:displayId>fc_Z</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>Z</dcterms:title>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:definition rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/Z/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#none"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_B/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_B"/>
+        <sbol:displayId>fc_B</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>B</dcterms:title>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:definition rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/B/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#none"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_A/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_A"/>
+        <sbol:displayId>fc_A</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>A</dcterms:title>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:definition rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/A/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#none"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_C/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_C"/>
+        <sbol:displayId>int_C</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <ns0:logic>https://www.openmath.org/cd/logic1#nor</ns0:logic>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000169"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000343"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_C/part_C_Z/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_C/part_C_Z"/>
+            <sbol:displayId>part_C_Z</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_Z/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_C/part_C/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_C/part_C"/>
+            <sbol:displayId>part_C</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000642"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_C/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_C/part_C_B/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_C/part_C_B"/>
+            <sbol:displayId>part_C_B</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_B/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_reporter/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_reporter"/>
+        <sbol:displayId>int_reporter</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <ns0:logic>https://www.openmath.org/cd/logic1#not</ns0:logic>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000169"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000343"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_reporter/part_reporter/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_reporter/part_reporter"/>
+            <sbol:displayId>part_reporter</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000642"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_reporter/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_reporter/part_reporter_C/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_reporter/part_reporter_C"/>
+            <sbol:displayId>part_reporter_C</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_C/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_Z/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_Z"/>
+        <sbol:displayId>int_Z</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <ns0:logic>https://www.openmath.org/cd/logic1#equivalent</ns0:logic>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000170"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000343"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_Z/part_Z_inducer/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_Z/part_Z_inducer"/>
+            <sbol:displayId>part_Z_inducer</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000459"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_inducer/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_Z/part_Z/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_Z/part_Z"/>
+            <sbol:displayId>part_Z</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000643"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_Z/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_B/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_B"/>
+        <sbol:displayId>int_B</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <ns0:logic>https://www.openmath.org/cd/logic1#nor</ns0:logic>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000169"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000343"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_B/part_B/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_B/part_B"/>
+            <sbol:displayId>part_B</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000642"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_B/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_B/part_B_A/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_B/part_B_A"/>
+            <sbol:displayId>part_B_A</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_A/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_B/part_B_C/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_B/part_B_C"/>
+            <sbol:displayId>part_B_C</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_C/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_A/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_A"/>
+        <sbol:displayId>int_A</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <ns0:logic>https://www.openmath.org/cd/logic1#nor</ns0:logic>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000169"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000343"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_A/part_A_Z/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_A/part_A_Z"/>
+            <sbol:displayId>part_A_Z</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_Z/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_A/part_A_B/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_A/part_A_B"/>
+            <sbol:displayId>part_A_B</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_B/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_A/part_A/1">
+            <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/int_A/part_A"/>
+            <sbol:displayId>part_A</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+            <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/1"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000642"/>
+            <sbol:participant rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/dsgrn_design_2020_04_16T14_24_15_504070/fc_A/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+  </sbol:ModuleDefinition>
+  <sbol:ComponentDefinition rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/Z/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/Z"/>
+    <sbol:displayId>Z</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Z</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/Z/1"/>
+    <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000285"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/C/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/C"/>
+    <sbol:displayId>C</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>C</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/C/1"/>
+    <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000285"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/reporter/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/reporter"/>
+    <sbol:displayId>reporter</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>reporter</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/reporter/1"/>
+    <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000285"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/inducer/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/inducer"/>
+    <sbol:displayId>inducer</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>inducer</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/inducer/1"/>
+    <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000285"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/A/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/A"/>
+    <sbol:displayId>A</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>A</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/A/1"/>
+    <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000285"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/B/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/B"/>
+    <sbol:displayId>B</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>B</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/B/1"/>
+    <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000285"/>
+  </sbol:ComponentDefinition>
+  <prov:Activity rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070"/>
+    <sbol:displayId>DSGRN_run_2020_04_16T14_24_15_504070</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070/1"/>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070_generation_association/1">
+        <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070_generation_association"/>
+        <sbol:displayId>DSGRN_run_2020_04_16T14_24_15_504070_generation_association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+        <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_2020_04_16T14_24_15_504070/1"/>
+        <prov:hadRole rdf:resource="file:///tmp/example"/>
+        <prov:agent rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN/1"/>
+        <prov:hadPlan rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_configuration_2020_04_16T14_24_15_504070/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Agent rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN"/>
+    <sbol:displayId>DSGRN</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN/1"/>
+  </prov:Agent>
+  <prov:Plan rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_configuration_2020_04_16T14_24_15_504070/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_configuration_2020_04_16T14_24_15_504070"/>
+    <sbol:displayId>DSGRN_run_configuration_2020_04_16T14_24_15_504070</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/DSGRN_run_configuration_2020_04_16T14_24_15_504070/1"/>
+  </prov:Plan>
+  <sbol:Attachment rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_feacd0f47d894184be78b8b6e47d5665/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_feacd0f47d894184be78b8b6e47d5665"/>
+    <sbol:displayId>attachment_feacd0f47d894184be78b8b6e47d5665</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>bistable_network_1.txt</dcterms:title>
+    <dcterms:description></dcterms:description>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_feacd0f47d894184be78b8b6e47d5665/1"/>
+    <sbol:source rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_feacd0f47d894184be78b8b6e47d5665/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>98</sbol:size>
+    <sbol:hash>a44cbe6c2478005bffb3821e21745c7564de3db9</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Attachment rdf:about="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_1fa3f951c684457ba3068b68b11fa77c/1">
+    <sbol:persistentIdentity rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_1fa3f951c684457ba3068b68b11fa77c"/>
+    <sbol:displayId>attachment_1fa3f951c684457ba3068b68b11fa77c</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>truth_table.json</dcterms:title>
+    <dcterms:description></dcterms:description>
+    <sbh:ownedBy rdf:resource="https://hub.sd2e.org/user/sd2e"/>
+    <sbh:topLevel rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_1fa3f951c684457ba3068b68b11fa77c/1"/>
+    <sbol:source rdf:resource="https://hub.sd2e.org/user/sd2e/DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070/attachment_1fa3f951c684457ba3068b68b11fa77c/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>193</sbol:size>
+    <sbol:hash>4546fb53785efbd1cb3e0bbe312b3232d9750396</sbol:hash>
+  </sbol:Attachment>
+</rdf:RDF>
