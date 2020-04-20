@@ -47,7 +47,7 @@ public class SBOLMolecularModelToPoPSNetlistConverterTest {
 
 	private static String path = SBOLMolecularModelToPoPSNetlistConverterTest.class.getName()
 	        .replaceAll("\\.", Utils.getFileSeparator()) + "_class";
-	private static String file = "DSGRN_Design_Three_Node_Network_1_2020_04_16T14_24_15_504070_collection.xml";
+	private static String file = "DSGRN_Design_Voigt_Network_1_2020_04_17T17_11_04_105248_collection.xml";
 	private static SBOLDocument document;
 
 	/**
@@ -71,7 +71,7 @@ public class SBOLMolecularModelToPoPSNetlistConverterTest {
 	 * @throws IOException
 	 */
 	@Test
-	public void convert_DSGRNFourNodeNetwork_ShouldReturnValidNetlist() throws CelloException, IOException {
+	public void convert_DSGRNVoigtNetwork_ShouldReturnValidNetlist() throws CelloException, IOException {
 		SBOLMolecularModelToPoPSNetlistConverter conv = new SBOLMolecularModelToPoPSNetlistConverter();
 		Netlist netlist = conv.convert(document);
 		netlist.setInputFilename(file);
@@ -84,7 +84,7 @@ public class SBOLMolecularModelToPoPSNetlistConverterTest {
 		w.close();
 		String result = w.toString();
 		// reference result
-		String referenceFile = "convert_DSGRNFourNodeNetwork_ShouldReturnValidNetlist.json";
+		String referenceFile = "convert_DSGRNVoigtNetwork_ShouldReturnValidNetlist.json";
 		String ref = Utils.getResourceAsString(path + Utils.getFileSeparator() + referenceFile);
 		// compare
 		assert (result.equals(ref));

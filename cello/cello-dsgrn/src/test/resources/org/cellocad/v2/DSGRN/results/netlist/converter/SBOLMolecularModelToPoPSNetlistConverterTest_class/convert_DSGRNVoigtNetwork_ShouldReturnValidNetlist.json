@@ -1,0 +1,161 @@
+{
+	"name": "dsgrn_design_2020_04_17T17_11_04_105248",
+	"inputFilename": "DSGRN_Design_Voigt_Network_1_2020_04_17T17_11_04_105248_collection.xml",
+	"placements": 
+	[
+	],
+	"nodes": 
+	[
+		{
+			"name": "y",
+			"nodeType": "NOT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "v",
+			"nodeType": "NOR",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "input2",
+			"nodeType": "PRIMARY_INPUT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "t",
+			"nodeType": "NOR",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "w",
+			"nodeType": "NOT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "input3",
+			"nodeType": "PRIMARY_INPUT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "output",
+			"nodeType": "PRIMARY_OUTPUT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "z",
+			"nodeType": "NOR",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "x",
+			"nodeType": "NOT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "u",
+			"nodeType": "NOT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "r",
+			"nodeType": "NOT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "s",
+			"nodeType": "NOT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+		{
+			"name": "input1",
+			"nodeType": "PRIMARY_INPUT",
+			"partitionID": -1,
+			"deviceName": "",
+		},
+	],
+	"edges": 
+	[
+		{
+			"name": "part_u_t",
+			"src": "t",
+			"dst": "u",
+		},
+		{
+			"name": "part_y_input2",
+			"src": "input2",
+			"dst": "y",
+		},
+		{
+			"name": "part_x_input1",
+			"src": "input1",
+			"dst": "x",
+		},
+		{
+			"name": "part_w_input3",
+			"src": "input3",
+			"dst": "w",
+		},
+		{
+			"name": "part_r_s",
+			"src": "s",
+			"dst": "r",
+		},
+		{
+			"name": "part_z_input1",
+			"src": "input1",
+			"dst": "z",
+		},
+		{
+			"name": "part_z_input3",
+			"src": "input3",
+			"dst": "z",
+		},
+		{
+			"name": "part_s_z",
+			"src": "z",
+			"dst": "s",
+		},
+		{
+			"name": "part_output_r",
+			"src": "r",
+			"dst": "output",
+		},
+		{
+			"name": "part_output_v",
+			"src": "v",
+			"dst": "output",
+		},
+		{
+			"name": "part_v_w",
+			"src": "w",
+			"dst": "v",
+		},
+		{
+			"name": "part_v_u",
+			"src": "u",
+			"dst": "v",
+		},
+		{
+			"name": "part_t_y",
+			"src": "y",
+			"dst": "t",
+		},
+		{
+			"name": "part_t_x",
+			"src": "x",
+			"dst": "t",
+		},
+	],
+},
